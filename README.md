@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FernandaRamosAS
+- 👀 I’m interested in hiring developers
+- 🌱 I’m currently learning about this wonderful world of code 
+- 💞️ I’m looking to collaborate with the best developers of LATAM! 
+- 📫 How to reach me: mframos@applaudostudios.com
